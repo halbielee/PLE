@@ -3,7 +3,7 @@
 <p align="center"><a href="https://arxiv.org/abs/2410.06893">arXiv Paper</a></p>
 
 <p align="center">Seungho Lee<sup>†</sup>, Hwijeong Lee<sup>‡</sup>, Hyunjung Shim<sup>‡</sup></p>
-<p align="center"><sup>‡</sup> <sub>Yonsei University</sub>, <sup>‡</sup> <sub>Korea Advanced Institute of Science and Technology</sub></p>
+<p align="center"><sup>†</sup> <sub>Yonsei University</sub>, <sup>‡</sup> <sub>Korea Advanced Institute of Science and Technology</sub></p>
 
 
 ## Introduction
